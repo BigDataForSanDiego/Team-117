@@ -22,7 +22,7 @@
 - [X] Access to Shelter and Resources
 > - Solutions to improve on-demand access and availability of shelters, food banks, medical aid, and social services for homeless individuals.
 > - Question: How can we develop technological solutions that provide real-time, on-demand information updates on available shelters, food banks, hygiene stations, medical clinics, and social services for people experiencing homelessness?
-- [X] Health and Mental Wellness Support
+- [ ] Health and Mental Wellness Support
 > - Tools to provide remote mental health support, connect to mobile healthcare providers, or manage chronic conditions common in homeless populations using mobile devices.
 > - Question: How can we create tools or mobile applications that deliver remote mental health care, help manage chronic health conditions, or connect unhoused individuals with trusted health professionals?
 - [ ] Housing and Employment Pathways
