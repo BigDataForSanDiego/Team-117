@@ -11,7 +11,8 @@
 #### Your team's hackathon idea in one sentence:
 ##### An app-supported workflow for direct-contact workers to seamlessly find nearby resource locations and print clear, physical directions and information for unhoused individuals to facilitate access.
 
-#### A visual
+#### Visual
+![BigDataFlow](BigDataFlow.svg)
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
