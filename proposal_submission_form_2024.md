@@ -8,8 +8,8 @@
 
 #### Team Members `Jay Giang: jaygiang | Caden Stewart: stewacad000`
 
-#### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+#### Your team's hackathon idea in one sentence:
+##### An app-supported workflow for direct-contact workers to seamlessly find nearby resource locations and print clear directions and information for unhoused individuals to facilitate access.
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
